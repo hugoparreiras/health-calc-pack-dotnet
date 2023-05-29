@@ -1,0 +1,12 @@
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.deps.json
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.dll
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet.pdb
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.csproj.AssemblyReference.cache
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.AssemblyInfoInputs.cache
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.AssemblyInfo.cs
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.dll
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\refint\health-calc-pack-dotnet.dll
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.pdb
+C:\Users\Hugo\Documents\Trabalho final\health-calc-pack-dotnet-main\health-calc-pack-dotnet-main\health-calc-pack-dotnet\obj\Debug\net6.0\ref\health-calc-pack-dotnet.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dotnet-calc-pack-dotnet-console/1.0.0": {
+        "dependencies": {
+          "health-calc-pack-dotnet": "1.0.0"
+        },
+        "runtime": {
+          "dotnet-calc-pack-dotnet-console.dll": {}
+        }
+      },
+      "health-calc-pack-dotnet/1.0.0": {
+        "runtime": {
+          "health-calc-pack-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-calc-pack-dotnet-console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "health-calc-pack-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
